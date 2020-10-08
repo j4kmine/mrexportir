@@ -548,7 +548,7 @@
                         <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:auto !important;margin-left:auto !important;">
                             <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;">
                                 <td width="40%" class="logo" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;text-align:left;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;">
-                                    <img src="https://mrexportir.s3-ap-southeast-1.amazonaws.com/backend/images/email/logo.png" alt="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:70%;max-width:300px;height:auto;/* margin:auto;*/display:block;-ms-interpolation-mode:bicubic;">
+                                    <img src="https://eksportir.s3-us-east-2.amazonaws.com/backend/images/email/logo.png" alt="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:70%;max-width:300px;height:auto;/* margin:auto;*/display:block;-ms-interpolation-mode:bicubic;">
                                 </td>
                                 <td width="60%" class="logo" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;text-align:right;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;">
 
@@ -598,28 +598,28 @@
                                                                 <h2 style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:'Montserrat', sans-serif;color:#000000;font-size:22px;margin-top:0;line-height:1.4;font-weight:400;">Status Pengiriman</h2>
                                                             </div>
                                                             <div class="services-list" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;margin-top:0;margin-bottom:20px;margin-right:0;margin-left:0;width:100%;float:left;">
-                                                                <img src="https://mrexportir.s3-ap-southeast-1.amazonaws.com/backend/images/email/sukses.png" alt="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:40px;max-width:600px;height:auto;display:block;margin-top:10px;-ms-interpolation-mode:bicubic;float:left;">
+                                                                <img src="https://eksportir.s3-us-east-2.amazonaws.com/backend/images/email/sukses.png" alt="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:40px;max-width:600px;height:auto;display:block;margin-top:10px;-ms-interpolation-mode:bicubic;float:left;">
                                                                 <div class="text" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:calc(100% - 60px);float:right;">
                                                                     <h4 style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:'Montserrat', sans-serif;color:#000000;margin-top:0;margin-bottom:0;font-size:14px;font-weight:500;">Document Handling</h4>
                                                                     <p style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;">{{ $data['tracking']['keterangan'] }}</p>
                                                                 </div>
                                                             </div>
                                                             <div class="services-list" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;margin-top:0;margin-bottom:20px;margin-right:0;margin-left:0;width:100%;float:left;">
-                                                                <img src="https://mrexportir.s3-ap-southeast-1.amazonaws.com/backend/images/email/sukses.png" alt="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:40px;max-width:600px;height:auto;display:block;margin-top:10px;-ms-interpolation-mode:bicubic;float:left;">
+                                                                <img src="https://eksportir.s3-us-east-2.amazonaws.com/backend/images/email/sukses.png" alt="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:40px;max-width:600px;height:auto;display:block;margin-top:10px;-ms-interpolation-mode:bicubic;float:left;">
                                                                 <div class="text" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:calc(100% - 60px);float:right;">
                                                                     <h3 style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:'Montserrat', sans-serif;color:#000000;font-size:16px;font-weight:600;margin-top:0;margin-bottom:0;">Siap di Pick-up</h3>
                                                                     <p style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;">{{ $data['tracking']['keterangan'] }}</p>
                                                                 </div>
                                                             </div>
                                                             <div class="services-list" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;margin-top:0;margin-bottom:20px;margin-right:0;margin-left:0;width:100%;float:left;">
-                                                                <img src="https://mrexportir.s3-ap-southeast-1.amazonaws.com/backend/images/email/menunggu.png" alt="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:40px;max-width:600px;height:auto;display:block;margin-top:10px;-ms-interpolation-mode:bicubic;float:left;">
+                                                                <img src="https://eksportir.s3-us-east-2.amazonaws.com/backend/images/email/menunggu.png" alt="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:40px;max-width:600px;height:auto;display:block;margin-top:10px;-ms-interpolation-mode:bicubic;float:left;">
                                                                 <div class="text" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:calc(100% - 60px);float:right;">
                                                                     <h4 id="menunggu" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:'Montserrat', sans-serif;margin-top:0;margin-bottom:0;font-size:14px;font-weight:500;color:#bababa;">Dikirim</h4>
                                                                     <p style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;">{{ $data['tracking']['keterangan'] }}</p>
                                                                 </div>
                                                             </div>
                                                             <div class="services-list" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;margin-top:0;margin-bottom:20px;margin-right:0;margin-left:0;width:100%;float:left;">
-                                                                <img src="https://mrexportir.s3-ap-southeast-1.amazonaws.com/backend/images/email/menunggu.png" alt="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:40px;max-width:600px;height:auto;display:block;margin-top:10px;-ms-interpolation-mode:bicubic;float:left;">
+                                                                <img src="https://eksportir.s3-us-east-2.amazonaws.com/backend/images/email/menunggu.png" alt="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:40px;max-width:600px;height:auto;display:block;margin-top:10px;-ms-interpolation-mode:bicubic;float:left;">
                                                                 <div class="text" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:calc(100% - 60px);float:right;">
                                                                     <h4 id="menunggu" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:'Montserrat', sans-serif;margin-top:0;margin-bottom:0;font-size:14px;font-weight:500;color:#bababa;">Terkirim</h4>
                                                                     <p style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;">{{ $data['tracking']['keterangan'] }}</p>
@@ -660,7 +660,7 @@
                 <!-- 1 Column Text + Button : END -->
             </table>
             <div>
-                <img src="https://mrexportir.s3-ap-southeast-1.amazonaws.com/backend/images/email/logo-footer.png" alt="" style="max-width: 600px;">
+                <img src="https://eksportir.s3-us-east-2.amazonaws.com/backend/images/email/logo-footer.png" alt="" style="max-width: 600px;">
             </div>
 
         </div>

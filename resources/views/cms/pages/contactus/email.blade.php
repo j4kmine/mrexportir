@@ -581,7 +581,7 @@
                             <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;">
                                 <td width="40%" class="logo"
                                     style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;text-align:left;mso-table-lspace:0 !important;mso-table-rspace:0 !important;">
-                                    <img src="https://mrexportir.s3-ap-southeast-1.amazonaws.com/backend/images/email/logo.png" alt=""
+                                    <img src="https://eksportir.s3-us-east-2.amazonaws.com/backend/images/email/logo.png" alt=""
                                         style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:70%;max-width:300px;height:auto;/* margin:auto;*/display:block;-ms-interpolation-mode:bicubic;">
                                 </td>
                                 <td width="60%" class="logo"
@@ -677,7 +677,7 @@
                 <!-- 1 Column Text + Button : END -->
             </table>
             <div>
-                <img src="https://mrexportir.s3-ap-southeast-1.amazonaws.com/backend/images/email/logo-footer.png" alt="" style="max-width: 600px;">
+                <img src="https://eksportir.s3-us-east-2.amazonaws.com/backend/images/email/logo-footer.png" alt="" style="max-width: 600px;">
             </div>
 
         </div>

@@ -572,7 +572,7 @@
                         <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                             <tr>
                                 <td width="40%" class="logo" style="text-align: left;">
-                                    <img src="https://mrexportir.s3-ap-southeast-1.amazonaws.com/backend/images/email/logo.png" alt="" style="width: 70%;max-width: 300px;height: auto;/* margin: auto; */display: block;">
+                                    <img src="https://eksportir.s3-us-east-2.amazonaws.com/backend/images/email/logo.png" alt="" style="width: 70%;max-width: 300px;height: auto;/* margin: auto; */display: block;">
                                 </td>
                                 <td width="60%" class="logo" style="text-align: right;"></td>
                             </tr>
@@ -620,7 +620,7 @@
                 <!-- 1 Column Text + Button : END -->
             </table>
             <div>
-                <img src="https://mrexportir.s3-ap-southeast-1.amazonaws.com/backend/images/email/logo-footer.png" alt="" style="max-width: 600px;">
+                <img src="https://eksportir.s3-us-east-2.amazonaws.com/backend/images/email/logo-footer.png" alt="" style="max-width: 600px;">
             </div>
 
         </div>
